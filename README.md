@@ -12,16 +12,21 @@ The goal is to bridge raw tracking outputs and high-level football analysis thro
 
 ## My Role
 
-I contribute to REPLAY as a **Machine Learning Engineer**, primarily working on the ML and data-processing layer.
+I contribute to REPLAY as a **Machine Learning Engineer**, focusing on the layer between raw tracking outputs and higher-level tactical analysis.
 
-My work includes:
+### Key Contributions
 
-- designing and implementing tactical feature extraction;
-- transforming player and ball tracking outputs into structured representations;
-- developing structured queries for tactical situations;
-- validating and standardising incoming tracking data;
-- connecting detected situations to timestamped match segments;
-- contributing to the architecture of the analysis pipeline.
+- design and implementation of tactical feature extraction;
+- team-shape and spatial-organisation analysis;
+- player–ball relationship features;
+- zone occupancy and spatial metrics;
+- structured tactical queries;
+- validation and standardisation of tracking outputs;
+- detection of tactical situations across temporal sequences;
+- connection of detected events to timestamped match segments;
+- contribution to the modular architecture of the ML pipeline.
+
+The objective is to transform low-level player and ball coordinates into structured, interpretable information that can later support tactical search and natural-language interaction.
 
 ## Pipeline
 
